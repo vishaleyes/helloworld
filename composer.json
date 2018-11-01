@@ -1,17 +1,14 @@
 {
-    "name": "vishal-panchal/hello-world",
-	"version" : "1.0",
-    "description": "Hello World",
+    "name": "bypt/hello-world",
+    "description": "HelloWorld",
     "authors": [
         {
             "name": "Vishal Panchal",
             "email": "vishal.panchal@bypt.in"
         }
     ],
-     "require": {
-        "php": ">=5.3.0"
-    },
-	"autoload": {
+    "minimum-stability": "dev",
+    "autoload": {
         "psr-0": {
             "HelloWorld": "src/"
         }
