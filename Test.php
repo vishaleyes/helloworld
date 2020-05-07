@@ -6,3 +6,4 @@ echo SayHello::world();
 echo "Automated Deploying";
 echo "Seecond STEP";
 echo "thiord STEP";
+echo "fourth STEP";
